@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Liga Inggris</string>
+    <string name="last_match">Yang Lalu</string>
+    <string name="home_badge">Home Badge</string>
+    <string name="vs">VS</string>
+    <string name="away_badge">Away Badge</string>
+    <string name="venue">Stadion : </string>
+    <string name="jadwal">Jadwal : </string>
+    <string name="jam">Kick Off : </string>
+    <string name="status">"Status : "</string>
+
+
+    <array name="league">
+        <item>English Premier League</item>
+    </array>
+
+    <array name="match_spinner">
+        <item>Past Match</item>
+        <item>Next Match</item>
+        <item>Favorit</item>
+    </array>
+    <string name="empty_data">Empty Data</string>
+    <string name="past_match">Yang Lalu</string>
+    <string name="next_match">Yang Akan Datang</string>
+    <string name="favorite">Favorit</string>
+    <string name="english_pemier_league">English Premier League</string>
+    <string name="match_english_pemier_league">4328</string>
+    <string name="empty_parameter">empty_parameter</string>
+    <string name="pastMatch">Yang Lalu</string>
+    <string name="nextMatch">Yang Akan Datang</string>
+    <string name="Favorite">Favorit</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image_splashscreen">image_Splashscreen</string>
+
+</resources>
